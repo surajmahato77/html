@@ -61,7 +61,7 @@ var allowedURLs = [
     "https://moviesmod4u.com",
     "https://thehdhub4u.in",
     "https://19flicks.com",
-    "https://movies4u.dhanjeerider.shop"
+    "https://movies4u.dhanjeerider.shop",
     "https://plusui.dhanjeerider.shop",
 "https://news.dhanjeerider.shop",
 "https://hdhub4u.dhanjeerider.shop",
