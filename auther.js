@@ -3,6 +3,7 @@ var allowedURLs = [
     "https://hdhub4u-wp-theme-dktzn.is-best.net",
     "https://dktech.000.pe",
     "https://dkflix.000.pe",
+    "https://filmyhit.gen.in",
     "https://vegaog.dktheme.com",
     "https://luxmovie.online",
     "https://hdhub4u.fashion",
