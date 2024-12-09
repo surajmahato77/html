@@ -19,6 +19,8 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://mariyaui.blogspot.com",
         "https://1stepno.blogspot.com",
         "https://www.films4u.in",
+        "https://allmovieshub.best",
+        "http://www.movieshub.best",
         "https://gpmovie-dktzone.rf.gd",
         "https://filmyfly.solutions",
         "https://hindustaniparivar.in",
