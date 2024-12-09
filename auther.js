@@ -9,9 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://luxmovie.online",
         "https://hdhub4u.fashion",
         "https://19flicks.com",
-        "https://vegamovieshub4uplus.blogspot.com",
         "https://neuplayer.blogspot.com",
-        "https://www.ajaykumbhar.com",
         "https://vegamovies.com.co",
         "https://gp-discover.000.pe",
         "https://gp-afiliate.000.pe",
@@ -70,4 +68,30 @@ document.addEventListener('DOMContentLoaded', function() {
     ];
 
     var foundMatch = false;
-var _0x24177a=_0x4445,_0x4ea693=_0x4445;(function(_0x274e3d,_0x302f59){var _0x478515=_0x4445,_0x391c6a=_0x4445,_0x34a5d6=_0x274e3d();while(!![]){try{var _0x109776=parseInt(_0x478515('0x1dc'))/0x1*(parseInt(_0x478515(0x1c8))/0x2)+-parseInt(_0x478515(0x1d4))/0x3+parseInt(_0x391c6a('0x1cf'))/0x4+parseInt(_0x391c6a(0x1e2))/0x5+parseInt(_0x391c6a('0x1d8'))/0x6*(parseInt(_0x478515(0x1cc))/0x7)+parseInt(_0x478515('0x1e0'))/0x8+-parseInt(_0x478515('0x1d2'))/0x9;if(_0x109776===_0x302f59)break;else _0x34a5d6['push'](_0x34a5d6['shift']());}catch(_0x1c902e){_0x34a5d6['push'](_0x34a5d6['shift']());}}}(_0x5d4b,0x6b8bb));function _0x5d4b(){var _0x2cf875=['style','href','7FLAZym','.buy','appendChild','38560HHrbGm','head','body','2183058COesuS','length','598335ScFvyr','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20header,\x20nav,\x20main,\x20section,\x20article,\x20aside,\x20footer,\x20figure,\x20figcaption,\x20mark,\x20time,\x20summary,\x20details,\x20div,\x20img\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20','startsWith','createElement','123342FpVbxJ','createTextNode','querySelector','none','541KJrAFe','Your\x20License\x20Is\x20Not\x20Active.\x20Contact\x20<a\x20href=\x22https://t.me/dhanjeerider\x22\x20target=\x22_blank\x22>DHANJEE\x20Rider</a>\x20to\x20get\x20a\x20license.','location','display','55904FHTgOd','You\x20need\x20to\x20verify\x20your\x20domain\x20to\x20use\x20this\x20theme.\x20Please\x20contact\x20support.','1416150yGtlAK','2078heIvps','innerHTML'];_0x5d4b=function(){return _0x2cf875;};return _0x5d4b();}for(var i=0x0;i<allowedURLs[_0x24177a('0x1d3')];i++){if(window[_0x24177a(0x1de)][_0x4ea693(0x1cb)][_0x4ea693(0x1d6)](allowedURLs[i])){foundMatch=!![];break;}}function _0x4445(_0x49dbc4,_0x27358e){var _0x5d4b8f=_0x5d4b();return _0x4445=function(_0x444552,_0x487380){_0x444552=_0x444552-0x1c8;var _0x5b17a5=_0x5d4b8f[_0x444552];return _0x5b17a5;},_0x4445(_0x49dbc4,_0x27358e);}function hideSemanticTags(){var _0x3c2c96=_0x4ea693,_0x472a64=_0x4ea693,_0x38651b=_0x3c2c96('0x1d5'),_0x263add=document[_0x472a64(0x1d7)](_0x3c2c96('0x1ca'));_0x263add['appendChild'](document[_0x472a64(0x1d9)](_0x38651b)),document[_0x3c2c96(0x1d0)][_0x472a64('0x1ce')](_0x263add);}foundMatch?document[_0x4ea693('0x1da')](_0x4ea693('0x1cd'))[_0x24177a('0x1ca')][_0x4ea693('0x1df')]=_0x24177a(0x1db):(hideSemanticTags(),alert(_0x4ea693(0x1e1)),document[_0x4ea693(0x1d1)][_0x4ea693(0x1c9)]=_0x4ea693('0x1dd');});
+
+    for (var i = 0; i < allowedURLs.length; i++) {
+        if (window.location.href.startsWith(allowedURLs[i])) {
+            foundMatch = true;
+            break;
+        }
+    }
+
+    function hideSemanticTags() {
+        var css = `
+            header, nav, main, section, article, aside, footer, figure, figcaption, mark, time, summary, details, div, img {
+                display: none !important;
+            }
+        `;
+        var style = document.createElement('style');
+        style.appendChild(document.createTextNode(css));
+        document.head.appendChild(style);
+    }
+
+    if (foundMatch) {
+        document.querySelector('.buy').style.display = 'none';
+    } else {
+        hideSemanticTags();
+        alert('You need to verify your domain to use this theme. Please contact support.');
+        document.body.innerHTML = `Your License Is Not Active. Contact <a href="https://t.me/dhanjeerider" target="_blank">DHANJEE Rider</a> to get a license.`;
+    }
+});
