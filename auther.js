@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://vegaog.dktheme.com",
         "https://luxmovie.online",
         "https://hdhub4u.fashion",
+        "https://vegamovies6.nl",
         "https://19flicks.com",
         "https://neuplayer.blogspot.com",
         "https://vegamovies.com.co",
