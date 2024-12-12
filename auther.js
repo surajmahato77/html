@@ -63,7 +63,10 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://news.dhanjeerider.shop",
         "https://hdhub4u.dhanjeerider.shop",
         "https://chek.dhanjeerider.shop",
-        "https://filmybuff.store"
+        "https://filmybuff.store",
+        "https://www.mkvmoviespoint.me",
+        "https://www.mkvmoviespoint.tech"
+    
     ];
 
     var foundMatch = false;
