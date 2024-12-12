@@ -65,7 +65,8 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://chek.dhanjeerider.shop",
         "https://filmybuff.store",
         "https://www.mkvmoviespoint.me",
-        "https://www.mkvmoviespoint.tech"
+        "https://www.mkvmoviespoint.tech",
+        "https://samovies.in"
     
     ];
 
