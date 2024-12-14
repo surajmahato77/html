@@ -66,7 +66,8 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://filmybuff.store",
         "https://www.mkvmoviespoint.me",
         "https://www.mkvmoviespoint.tech",
-        "https://samovies.in"
+        "https://samovies.in",
+        "https://hdhub4u.tires"
     
     ];
 
