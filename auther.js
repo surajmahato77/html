@@ -58,7 +58,8 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://desiremovies.store",
         "https://desiremovies.art",
         "https://vega-movies.in.net",
-        "https://thehdhub4u.in",
+        "https://thehdhub4u.in
+        ",
         "https://movies4u.dhanjeerider.shop",
         "https://plusui.dhanjeerider.shop",
         "https://news.dhanjeerider.shop",
@@ -71,7 +72,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://hdhub4u.tires",
         "https://www.vegamovie.blog",
         "https://news.dktheme.online"
-    
+    "https://movieshd4u.in"
     ];
 
     var foundMatch = false;
