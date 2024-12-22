@@ -71,8 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://samovies.in",
         "https://hdhub4u.tires",
         "https://www.vegamovie.blog",
-        "https://news.dktheme.online"
-    "https://movieshd4u.in"
+        "https://news.dktheme.online",
+    "https://movieshd4u.in",
+        "https://vega-movies.news"
     ];
 
     var foundMatch = false;
