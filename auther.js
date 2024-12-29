@@ -1,6 +1,6 @@
 var allowedURLs = [
     "https://biographyhero.lovestoblog.com",
-    "https://hdhub4u-wp-theme-dktzn.is-best.net",
+    "https://dktheme.online",
     "https://dktech.000.pe",
     "https://vega.dhanjeerider.shop",
     "https://filmyhit.gen.in",
