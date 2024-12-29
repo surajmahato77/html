@@ -58,8 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://desiremovies.store",
         "https://desiremovies.art",
         "https://vega-movies.in.net",
-        "https://thehdhub4u.in
-        ",
+        "https://thehdhub4u.in",
         "https://movies4u.dhanjeerider.shop",
         "https://plusui.dhanjeerider.shop",
         "https://news.dhanjeerider.shop",
