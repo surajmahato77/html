@@ -11,7 +11,7 @@ var allowedURLs = [
     "https://19flicks.com",
     "https://neuplayer.blogspot.com",
     "https://vegamovies.com.co",
-    "https://gp-discover.000.pe",
+    "https://vegamoviezz.in",
     "https://gp-afiliate.000.pe",
     "https://gp-lifehacker.000.pe",
     "https://gp-newspape.000.pe",
