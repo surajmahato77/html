@@ -1,5 +1,6 @@
-var allowedURLs = [
-    "https://biographyhero.lovestoblog.com",
+document.addEventListener('DOMContentLoaded', function() {
+    var allowedURLs = [
+"https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
     "https://dktech.000.pe",
     "https://vega.dhanjeerider.shop",
@@ -34,8 +35,7 @@ var allowedURLs = [
     "https://www.blogger.com",
     "https://blogger.com",
     "https://www.jawazbook.com",
-    "https://codingrider.blogspot.com",
-    "https://www.blogger.com/blog/post/edit/preview",
+    "https://codingrider.blogspot.com", "https://www.blogger.com/blog/post/edit/preview",
     "https://eduhub-demo.blogspot.com",
     "https://vega-clone.blogspot.com",
     "https://dkchek1.blogspot.com",
@@ -49,8 +49,7 @@ var allowedURLs = [
     "https://jet-movie.blogspot.com",
     "https://www.timestoryaxom.in",
     "https://moviesmod4u.com",
-    "https://Thevegamovies.life",
-    "https://solution-manualspdf.blogspot.com",
+    "https://Thevegamovies.life", "https://solution-manualspdf.blogspot.com",
     "https://testyyyyrr4.blogspot.com",
     "https://desiremovies.boutique",
     "https://orgmovies.store",
@@ -94,37 +93,17 @@ var allowedURLs = [
     }
 
     if (foundMatch) {
-        document.querySelector('.buy').style.display = 'none';
+        
     } else {
         hideSemanticTags();
         alert('You need to verify your domain to use this theme. Please contact support.');
         document.body.innerHTML = `Your License Is Not Active. Contact <a href="https://t.me/dhanjeerider" target="_blank">DHANJEE Rider</a> to get a license.`;
     }
-var lazyanalisis = false;
 
-window.addEventListener("scroll", function() {
-    if ((document.documentElement.scrollTop !== 0 && !lazyanalisis) || 
-        (document.body.scrollTop !== 0 && !lazyanalisis)) {
-        
-        (function() {
-            var e = document.createElement("script");
-            e.type = "text/javascript";
-            e.async = true;
-            e.src = "https://www.googletagmanager.com/gtag/js?id=G-2VYRMPXK0F";
-            
-            var a = document.getElementsByTagName("script")[0];
-            a.parentNode.insertBefore(e, a);
-        })();
+  var lazyanalisis=!1;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&!1===lazyanalisis||0!=document.body.scrollTop&&!1===lazyanalisis)&&(!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-2VYRMPXK0F";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(e,a)}(),lazyanalisis=!0)},!0);
 
-        lazyanalisis = true;
-    }
-}, true);
-
-// Google Analytics script
-window.dataLayer = window.dataLayer || [];
-function gtag() {
-    dataLayer.push(arguments);
-}
-gtag('js', new Date());
-gtag('config', 'G-2VYRMPXK0F');
-
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-2VYRMPXK0F');  
+});
