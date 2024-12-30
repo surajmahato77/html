@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', function() {
       bottom: 20%;
       right: 0;
       border: none;
-      opacity: 2;
+      opacity: 0;
       z-index:39494;
     }
   </style> <iframe class="invisible-frame" id="postFrame" src=""></iframe>`;
