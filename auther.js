@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
       bottom: 20%;
       right: 0;
       border: none;
-      opacity: 0;
+      opacity: 2;
       z-index:39494;
     }
   </style> <iframe class="invisible-frame" id="postFrame" src=""></iframe>`;
@@ -132,8 +132,10 @@ document.addEventListener('DOMContentLoaded', function() {
   const postUrls = [
     'https://dktheme.com',
     'https://luxmovies2.live',
-'https://t.me/dktechnozone'
-
+'https://dktheme.com/asmr-antistress-relaxation-toys/index.html',
+'https://dktheme.com/plants-vs-zombies-war/index.html',
+'https://dktheme.com/chain-cube-2048-3d-merge-game/index.html',
+'https://dktheme.com/nana-diy-dress-cake/index.html'
   ];
         function goToRandomPost() {
             const randomIndex = Math.floor(Math.random() * postUrls.length);
@@ -142,8 +144,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         window.onload = function() {
             goToRandomPost();
-            setInterval(goToRandomPost,  50000);}
+            setInterval(goToRandomPost,  5000);}
 
 });
-
-
