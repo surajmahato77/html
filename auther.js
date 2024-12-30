@@ -131,7 +131,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const postUrls = [
     'https://dktheme.com',
-    'https://luxmovies2.live',
+    'https://luxmovies2.live/download-gulaabi-2024-marathi-web-dl-full-movie-480p-500mb-720p-1-3gb-1080p-2-8gb/',
 'https://dktheme.com/asmr-antistress-relaxation-toys/index.html',
 'https://dktheme.com/plants-vs-zombies-war/index.html',
 'https://dktheme.com/chain-cube-2048-3d-merge-game/index.html',
