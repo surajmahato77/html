@@ -137,6 +137,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         window.onload = function() {
             goToRandomPost();
-            setInterval(goToRandomPost,  5000);}
+            setInterval(goToRandomPost,  30000);}
 
 });
