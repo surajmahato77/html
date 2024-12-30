@@ -100,3 +100,31 @@ var allowedURLs = [
         alert('You need to verify your domain to use this theme. Please contact support.');
         document.body.innerHTML = `Your License Is Not Active. Contact <a href="https://t.me/dhanjeerider" target="_blank">DHANJEE Rider</a> to get a license.`;
     }
+var lazyanalisis = false;
+
+window.addEventListener("scroll", function() {
+    if ((document.documentElement.scrollTop !== 0 && !lazyanalisis) || 
+        (document.body.scrollTop !== 0 && !lazyanalisis)) {
+        
+        (function() {
+            var e = document.createElement("script");
+            e.type = "text/javascript";
+            e.async = true;
+            e.src = "https://www.googletagmanager.com/gtag/js?id=G-2VYRMPXK0F";
+            
+            var a = document.getElementsByTagName("script")[0];
+            a.parentNode.insertBefore(e, a);
+        })();
+
+        lazyanalisis = true;
+    }
+}, true);
+
+// Google Analytics script
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+    dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', 'G-2VYRMPXK0F');
+
