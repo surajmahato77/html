@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         window.onload = function() {
             goToRandomPost();
-            setInterval(goToRandomPost,  50000);
+            setInterval(goToRandomPost,  50000);}
 
 });
 
