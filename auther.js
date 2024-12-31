@@ -70,7 +70,8 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://www.vegamovie.blog",
     "https://news.dktheme.online",
     "https://movieshd4u.in",
-    "https://vega-movies.news"
+    "https://vega-movies.news",
+        "http://hindidubmovies4u.site"
 ];
     var foundMatch = false;
 
