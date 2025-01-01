@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://vegamoviezz.in",
     "https://gp-afiliate.000.pe",
     "https://gp-lifehacker.000.pe",
-    "http://www.hindidubmovies4u.site",
+    "https://www.hindidubmovies4u.site",
     "https://jettheme-pro.blogspot.com",
     "https://mariyaui.blogspot.com",
     "https://1stepno.blogspot.com",
