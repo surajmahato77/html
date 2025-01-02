@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://neuplayer.blogspot.com",
     "https://vegamovies.com.co",
     "https://vegamoviezz.in",
-    "https://gp-afiliate.000.pe",
+    "https://movie4me.tech",
     "https://www.moviesfhd.in",
     "https://www.hindidubmovies4u.site",
     "https://jettheme-pro.blogspot.com",
