@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://vegamovies.click",
     "https://allmovieshub.best",
     "http://www.movieshub.best",
-    "https://gpmovie-dktzone.rf.gd",
+    "https://vegamovies4it.blogspot.com",
     "https://filmyfly.solutions",
     "https://hindustaniparivar.in",
     "https://taagsqywsg.blogspot.com",
