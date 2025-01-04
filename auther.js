@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://filmyhit.gen.in",
     "https://vegaog.dktheme.com",
     "https://luxmovie.online",
-    "https://hdhub4u.fashion",
+    "https://techhub.dktheme.com",
     "https://vegamovies6.nl",
     "https://19flicks.com",
     "https://neuplayer.blogspot.com",
