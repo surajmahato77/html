@@ -71,7 +71,8 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://news.dktheme.online",
     "https://movieshd4u.in",
     "https://vega-movies.news",
-        "http://hindidubmovies4u.site"
+        "http://hindidubmovies4u.site",
+        "https://newspaper.dktheme.com"
 ];
     var foundMatch = false;
 
