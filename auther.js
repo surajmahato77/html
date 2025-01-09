@@ -74,7 +74,8 @@ document.addEventListener('DOMContentLoaded', function() {
         "http://hindidubmovies4u.site",
         "https://newspaper.dktheme.com",
         "https://dktheme.com/Gl",
-        "https://sabmovies.blog"
+        "https://sabmovies.blog",
+        "https://dktheme.com"
 ];
     var foundMatch = false;
 
