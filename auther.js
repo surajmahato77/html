@@ -35,6 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://www.blogger.com",
     "https://blogger.com",
     "https://www.jawazbook.com",
+        "https://hdhub4u.net.pl",
     "https://codingrider.blogspot.com", "https://www.blogger.com/blog/post/edit/preview",
     "https://eduhub-demo.blogspot.com",
     "https://vega-clone.blogspot.com",
