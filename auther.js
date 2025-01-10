@@ -75,7 +75,9 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://newspaper.dktheme.com",
         "https://dktheme.com/Gl",
         "https://sabmovies.blog",
-        "https://dktheme.com"
+        "https://dktheme.com",
+        "https://samovies.online",
+        "https://vegaflix.com"
 ];
     var foundMatch = false;
 
