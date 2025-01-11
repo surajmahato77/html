@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://dktheme.online",
     "https://moviesmod.buzz",
         "https://hdhub4u.pet",
-    "https://vea.dhanjeerider.shop",
+    "https://vega.dhanjeerider.shop",
     "https://filmyhit.gen.in",
     "https://vegaog.dktheme.com",
     "https://luxmovie.online",
