@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://moviesmod.buzz",
         "https://hdhub4u.pet",
         "https://sparkloot.me",
+        "https://hindianimes.me/demo",
         "https://demo.24x7earning.com",
     "https://vega.dhanjeerider.shop",
     "https://filmyhit.gen.in",
