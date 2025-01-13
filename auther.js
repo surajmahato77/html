@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://vegamoviezz.in",
     "https://movie4me.tech",
     "https://www.moviesfhd.in",
-    "https://www.hindidubmovies4u.site",
+    "https://vegamoviesz.site",
     "https://jettheme-pro.blogspot.com",
     "https://mariyaui.blogspot.com",
     "https://1stepno.blogspot.com",
