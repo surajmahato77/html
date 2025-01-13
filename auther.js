@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://hdhub4u.pet",
         "https://sparkloot.me",
         "https://hindianimes.me/demo",
-        "https://demo.24x7earning.com",
+        "https://demo.24x7earning.com/demo",
     "https://vega.dhanjeerider.shop",
     "https://filmyhit.gen.in",
     "https://vegaog.dktheme.com",
