@@ -73,6 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://www.mkvmoviespoint.tech",
     "https://samovies.in",
     "https://hdhub4u.tires",
+        "https://actrers-biography.blogspot.com",
     "https://www.vegamovie.blog",
     "https://news.dktheme.online",
     "https://movieshd4u.in",
