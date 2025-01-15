@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
 "https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
     "https://moviesmod.buzz",
+        "https://vegamovies4u.bz",
         "https://hdhub4u.pet",
         "https://sparkloot.me",
         "https://hindianimes.me/demo",
