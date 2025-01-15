@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var allowedURLs = [
 "https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
+        "https://zinkmovies.co",
     "https://moviesmod.buzz",
         "https://vegamovies4u.bz",
         "https://hdhub4u.pet",
