@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://dktheme.online",
         "https://filmybuff.store",
         "https://zinkmovies.co",
-    to  "https://moviesmod.buzz",
+     "https://moviesmod.buzz",
         "https://vegamovies4u.bz",
         "https://hdhub4u.pet",
         "https://sparkloot.me",
