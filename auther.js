@@ -1,10 +1,11 @@
 document.addEventListener('DOMContentLoaded', function() {
     var allowedURLs = [
+        "https://adultavenue.tattoo",
 "https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
         "https://filmybuff.store",
         "https://zinkmovies.co",
-    "https://moviesmod.buzz",
+    to  "https://moviesmod.buzz",
         "https://vegamovies4u.bz",
         "https://hdhub4u.pet",
         "https://sparkloot.me",
