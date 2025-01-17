@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://filmybuff.store",
         "https://zinkmovies.co",
      "https://moviesmod.buzz",
+        "https://movieshub.cyou",
         "https://vegamovies4u.bz",
         "https://hdhub4u.pet",
         "https://sparkloot.me",
