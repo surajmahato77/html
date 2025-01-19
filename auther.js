@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://adultavenue.tattoo",
 "https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
+        "https://moviemod.city",
         "https://wh1408502.ispot.cc",
         "https://wh1408502.ispot.cc/lux",
         "https://wh1408502.ispot.cc/lux",
