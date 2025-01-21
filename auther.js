@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
 "https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
         "https://filmyking.site",
+        "https://bollypro.sbs",
         "https://moviemod.city",
         "https://wh1408502.ispot.cc",
         "https://wh1408502.ispot.cc/lux",
