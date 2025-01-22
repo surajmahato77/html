@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://www.moviesdon.online",
         "https://moviesdon143.blogspot.com",
         "https://wh1408502.ispot.cc",
+        "https://desiremovies.blog",
         "https://wh1408502.ispot.cc/lux",
         "https://wh1408502.ispot.cc/lux",
         "https://multimoviez.xyz/chek",
