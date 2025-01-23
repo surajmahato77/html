@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://filmyking.site",
         "https://bollypro.sbs",
         "https://moviemod.city",
+        "https://saurhmovies.com",
         "https://www.moviesdon.online",
         "https://moviesdon143.blogspot.com",
         "https://wh1408502.ispot.cc",
