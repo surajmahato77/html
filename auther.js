@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://filmyking.rf.gd",
         "https://sauthflix.com",
         "https://moviemod.city",
+        "https://movies4u24.in",
         "https://sauthmovies.com",
         "https://www.moviesdon.online",
         "https://moviesdon143.blogspot.com",
