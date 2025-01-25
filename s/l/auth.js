@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://vegamovies.com.co",
     "https://vegamoviezz.in",
     "https://movie4me.tech",
+        "https://movies4u24.in",
     "https://www.moviesfhd.in",
     "https://www.hindidubmovies4u.site",
     "https://jettheme-pro.blogspot.com",
