@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://dktheme.online",
         "https://filmyking.site",
         "https://bollypro.sbs",
+        "https://abc2movie.blogspot.com",
         "https://filmyking.rf.gd",
         "https://luxmovies2.live",
         "https://sauthflix.com",
