@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://netprimemovies1.blogspot.com/",
         "https://filmyking.site",
         "https://bollypro.sbs",
+        "https://www.netprimemovies.site",
         "https://www.cineflim.com",
         "https://abc2movie.blogspot.com",
         "https://filmyking.rf.gd",
