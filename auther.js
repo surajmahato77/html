@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://luxmovies2.live",
         "https://sauthflix.com",
         "https://moviemod.city",
-        "https://movies4u24.in",
+        "https://movies4u24.i",
         "https://tmoviezone.blogspot.com",
         "https://sauthmovies.com",
         "https://www.moviesdon.online",
