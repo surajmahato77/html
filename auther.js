@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://sauthflix.com",
         "https://moviemod.city",
         "https://sdrips.fun",
+        "https://akayamovie.xyz",
         "https://movies4u24.in",
         "https://tmoviezone.blogspot.com",
         "https://sauthmovies.com",
