@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://adultavenue.tattoo",
 "https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
+        "https://movflix.info",
         "https://netprimemovies1.blogspot.com/",
         "https://filmyking.site",
         "https://streamhd.fun",
