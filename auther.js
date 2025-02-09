@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
 "https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
         "https://movflix.info",
+        "https://movieflix.digital",
         "https://netprimemovies1.blogspot.com/",
         "https://filmyking.site",
         "https://streamhd.fun",
