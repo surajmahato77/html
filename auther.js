@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://bollypro.sbs",
         "https://vegamoviese.fun",
         "https://filmybuff.space",
-    "http://Links.wuaze.com",
+    "https://Links.wuaze.com",
         "https://www.netprimemovies.site",
         "https://www.cineflim.com",
         "https://abc2movie.blogspot.com",
