@@ -4,6 +4,6 @@ document.addEventListener("DOMContentLoaded", function() {
             <h1>the devlopment charges are not paid by site half payment paid only pay full theme development price to open your site now </h2>
              <a class="bts" href="upi://pay?pn=with%20Upilink.in%20&pa=dhanjeerider@ybl&cu=INR&am=1000.0" target="_blank">pay remaining money now </a> </p>
         </div>
-        <style>.bts{padding: 14px;background: green;color: white; text-decoration: none; font-size: 18px; border-radius: 6px;} *{text-transform: capitalize;}</style>
+        <style>.bts{padding: 14px;background: green;color: white; text-decoration: none; font-size: 18px; border-radius: 6px;} h1{line-height:1.5em;text-transform: capitalize;}</style>
     `;
 });
