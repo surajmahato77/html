@@ -15,7 +15,6 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://vegamoviese.fun",
         "https://filmybuff.space",
     "https://Links.wuaze.com",
-        "
         "https://www.netprimemovies.site",
         "https://www.cineflim.com",
         "https://abc2movie.blogspot.com",
