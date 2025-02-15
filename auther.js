@@ -125,6 +125,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://dktheme.com/Gl",
         "https://sabmovies.blog",
         "https://dktheme.com",
+        "https://discover.dktheme.com",
         "https://samovies.online",
         "https://vegaflix.com",
         "https://www.saanime.store",
