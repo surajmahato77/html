@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://filmycab.today",
         "https://bollypro.sbs",
         "https://jobsnewsalert.com",
-        "https://VacancyNews.com",
+        "https://vacancysnews.com",
         "https://jobnewstodays.com",
         "https://jobnewspost.com",
         "https://nayaharyana.com",
