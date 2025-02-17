@@ -31,6 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://sdrips.fun",
         "https://akayamovie.xyz",
         "https://movies4u24.in",
+        "https://vegamoviese.lol",
         "https://tmoviezone.blogspot.com",
         "https://sauthmovies.com",
         "https://www.moviesdon.online",
