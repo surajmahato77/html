@@ -1,1 +1,1 @@
-
+document.write(`hellow world')
