@@ -4,6 +4,8 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://adultavenue.tattoo",
 "https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
+        "https://test.dktheme.com",
+        "https://dktheme.com/apk",
         "https://pmfbyjobsnews.com",
         "https://nayaharyana-com.preview-domain.com",
         "https://movflix.info",
