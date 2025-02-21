@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://pmfbyjobsnews.com",
         "https://nayaharyana-com.preview-domain.com",
         "https://movflix.info",
+        "https://sarkarinewszone.com",
         "https://movieflix.digital",
         "https://netprimemovies1.blogspot.com/",
         "https://filmyking.site",
