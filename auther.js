@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://streamhd.fun",
         "https://filmycab.today",
         "https://bollypro.sbs",
+        "https://bdmoviehubhd.blogspot.com",
         "https://jobsnewsalert.com",
         "https://vacancysnews.com",
         "https://jobnewstodays.com",
