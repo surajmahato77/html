@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://adultavenue.tattoo",
 "https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
+        "https://hdhub4utvm.blogspot.com",
         "https://hdhub4u.es",
         "https://filmygallery54.space",
         "https://www.bdmoviehub.top",
