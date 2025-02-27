@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
 "https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
         "https://hdhub4u.es",
+        "https://filmygallery54.space",
         "https://www.bdmoviehub.top",
         "https://top-anime4u.blogspot.com",
         "https://test.dktheme.com",
