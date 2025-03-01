@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     var allowedURLs = [
         "https://movies4u.press",
+        "https://zcflick.in",
         "https://gharkulyojana.com",
         "https://oasisscholarships.com",
         "https://kaliasyojana.com",
