@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://streamhd.fun",
         "https://filmycab.today",
         "https://bollypro.sbs",
+        "https://filmyking4u.in",
         "https://bdmoviehubhd.blogspot.com",
         "https://jobsnewsalert.com",
         "https://vacancysnews.com",
