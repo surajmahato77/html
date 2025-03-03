@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://oasisscholarships.com",
         "https://kaliasyojana.com",
         "https://pmyasasviyojana.com",
-        
+        "https://www.hdhub4utv.live",
         
         "https://adultavenue.tattoo",
 "https://biographyhero.lovestoblog.com",
