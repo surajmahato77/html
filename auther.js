@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://www.hdhub4utv.live",
         "https://www.faxflix.site",
         "https://adultavenue.tattoo",
+        "https://moviesbake.online",
 "https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
         "https://hdhub4utvm.blogspot.com",
