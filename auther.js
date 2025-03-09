@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://kaliasyojana.com",
         "https://pmyasasviyojana.com",
         "https://www.hdhub4utv.live",
-        
+        "https://www.faxflix.site",
         "https://adultavenue.tattoo",
 "https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
