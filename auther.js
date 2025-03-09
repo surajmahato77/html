@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://dktheme.online",
         "https://hdhub4utvm.blogspot.com",
         "https://hdhub4u.es",
+        "http://Filmybuff.space",
         "https://filmygallery54.space",
         "https://www.bdmoviehub.top",
         "https://top-anime4u.blogspot.com",
