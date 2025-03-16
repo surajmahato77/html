@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://www.hdhub4u.agency",
         "https://movies4u.press",
         "https://www.zcflick.in",
+        "https://moviesdada.help",
         "https://cinema4free.online",
         "https://gharkulyojana.com",
         "https://oasisscholarships.com",
