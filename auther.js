@@ -6,8 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://moviesdada.help",
         "https://hdhub4u.ml",
         "http://moviespell.com",
-        "https://moviespell.com",
-        
+        "https://moviespell.com",        
         "https://www.hdhub4umovies.co.in",
         "https://hdhuog.dhanjeerider.shop",
         "https://cinema4free.online",
