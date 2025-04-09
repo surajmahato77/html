@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://hdhub4u.ml",
         "https://dhanjeerider.shop/Mvsdrv",
         "https://moviesin.xyz",
+        "https://Animes4world.in",
         "http://moviespell.com",
         "https://moviespell.com",        
         "https://www.hdhub4umovies.co.in",
