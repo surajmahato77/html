@@ -9,6 +9,8 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://www.commingsoonmovies.com",
         "https://dhanjeerider.shop/Mvsdrv",
         "https://moviesin.xyz",
+        "http://filmyfly.at",
+        "https://filmyfly.at",
         "https://Animes4world.in",
         "http://moviespell.com",
         "https://moviespell.com",        
