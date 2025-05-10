@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var allowedURLs = [
         "https://www.hdhub4u.agency",
         "https://movies4u.press",
+        "https://filmflicker25.blogspot.com",
         "https://www.zcflick.in",
         "https://moviesdada.help",
         "https://hdhub4u.ml",
