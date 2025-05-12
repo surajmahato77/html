@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://filmflicker25.blogspot.com",
         "https://www.zcflick.in",
         "https://moviesdada.help",
+        "https://www.vegafilm.site",
         "https://hdhub4u.ml",
         "https://filmyhunk.fun",
         "https://moviewale24x7.xyz",
