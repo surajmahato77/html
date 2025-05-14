@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://moviesdada.help",
         "https://www.vegafilm.site",
         "https://hdhub4u.ml",
+        "https://rightmb.free.nf",
         "https://newsbeeta.com",
         "https://filmyhunk.fun",
         "https://moviewale24x7.xyz",
