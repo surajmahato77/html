@@ -7,6 +7,8 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://moviesdada.help",
         "https://www.vegafilm.site",
         "https://hdhub4u.ml",
+        "http://primaniurlshortener.free.nf",
+        "https://primaniurlshortener.free.nf",
         "https://vegamovie-nl.cfd",
         "https://rightmb.free.nf",
         "https://newsbeeta.com",
