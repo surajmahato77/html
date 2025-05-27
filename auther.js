@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://moviesdada.help",
         "https://filmyfly.pl",
         "https://filmyfly.lu",
+        "https://vegamovies2k.in",
         "https://www.vegafilm.site",
         "https://hdhub4u.ml",
         "http://primaniurlshortener.free.nf",
