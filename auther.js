@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://www.zcflick.in",
         "https://moviesdada.help",
         "https://filmyfly.pl",
+        "https://boltmovies.fun",
         "https://filmyfly.lu",
         "https://vegamovies2k.in",
         "https://www.vegafilm.site",
