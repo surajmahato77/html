@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://filmyfly.pl",
         "https://boltmovies.fun",
         "https://filmyfly.lu",
+        "https://www.utkalscreens.site",
         "https://vegamovies2k.in",
         "https://www.vegafilm.site",
         "https://hdhub4u.ml",
