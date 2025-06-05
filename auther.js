@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://vegamovies2k.in",
         "https://www.vegafilm.site",
         "https://hdhub4u.ml",
+        "https://www.moviesdownhd.com",
         "http://primaniurlshortener.free.nf",
         "https://primaniurlshortener.free.nf",
         "https://vegamovie-nl.cfd",
