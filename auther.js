@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://moviesdada.help",
         "https://filmyfly.pl",
         "https://9xflix.ch",
+        "http://www.filmflicker25.xyz",
         "https://www.filmflicker25.xyz",
         "https://www.moviestar4u.xyz",
         "https://boltmovies.fun",
