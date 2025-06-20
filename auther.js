@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function() {
 "https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
         "https://hdhub4utvm.blogspot.com",
-        "https://hdhub4u.es",
+        "https://scraper.rf.gd/",
         "http://Filmybuff.space",
         "https://filmygallery54.space",
         "https://www.bdmoviehub.top",
