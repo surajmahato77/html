@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://filmyfly.pl",
         "https://filmyfly.hair",
         "https://9xflix.ch",
+        "https://greatcinema.net",
         "https://zharmovies.com",
         "http://www.filmflicker25.xyz",
         "https://www.filmflicker25.xyz",
