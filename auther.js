@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://oasisscholarships.com",
         "https://kaliasyojana.com",
         "https://hdboss4u.com",
-        "https://Universityscope.com",
+        "https://universityscope.com",
         "https://demo-mhp.blogspot.com",
         "https://pmyasasviyojana.com",
         "https://www.hdhub4utv.live",
