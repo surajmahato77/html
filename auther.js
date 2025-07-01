@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://universityscore.com",
         "https://moviesdada.help",
         "https://filmyfly.pl",
-        "http://Odiafilmy4u.blogspot.com",
+        "https://odiafilmy4u.blogspot.com",
         "https://filmyfly.hair",
         "https://sexvideo.free.nf",
         "https://9xflix.ch",
