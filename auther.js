@@ -1,10 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
     var allowedURLs = [
-        "https://www.hdhub4u.agency",
         "https://movies4u.press",
         "https://filmflicker25.blogspot.com",
         "https://www.zcflick.in",
-        "https://bscnotes.in,
+        "https://bscnotes.in",
         "https://universityscore.com",
         "https://moviesdada.help",
         "https://filmyfly.pl",
@@ -54,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
 "https://biographyhero.lovestoblog.com",
     "https://dktheme.online",
         "https://hdhub4utvm.blogspot.com",
-        "https://scraper.rf.gd/",
+        "https://scraper.rf.gd",
         "http://Filmybuff.space",
         "https://filmygallery54.space",
         "https://www.bdmoviehub.top",
