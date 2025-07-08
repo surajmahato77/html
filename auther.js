@@ -20,6 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://9xflix.ch",
         "https://greatcinema.net",
         "https://zharmovies.com",
+        "https://www.pmmovies.shop",
         "http://www.filmflicker25.xyz",
         "https://www.filmflicker25.xyz",
         "https://www.moviestar4u.xyz",
