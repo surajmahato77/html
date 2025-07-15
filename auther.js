@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     var allowedURLs = [
+        "https://vegamoviesnl.in",
         "https://movies4u.press",
         "https://dhanjeerider.shop/newvega",
         "https://filmflicker25.blogspot.com",
