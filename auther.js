@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://bscnotes.in",
         "https://www.odiafilmy4u.fun",
         "https://bollyflix.run",
-        "https://netprimemovies.site",
+        "https://smxmovies.blogspot.com",
         "https://www.vegamovies-nl.casa",
         "https://movieshd4u.xyz",
         "https://www.universityscope.com",
